@@ -1,3 +1,3 @@
 # assignment-six-component
 
-![GitHub Logo](./src/assets/images/screen-shot.png)
+![Screen Shot](./src/assets/images/screen-shot.png)
